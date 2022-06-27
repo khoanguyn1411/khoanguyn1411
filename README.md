@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   - Gmail: khoaah1411@gmail.com
   - Facebook: https://www.facebook.com/khoa.nguynn1411/
-  - LinkedIn: https://www.linkedin.com/in/nguy%E1%BB%85n-khoa-12a406240/
+  - LinkedIn: https://www.linkedin.com/in/khoanguyn1411/
 
 <!---
 khoanguyn1411/khoanguyn1411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
