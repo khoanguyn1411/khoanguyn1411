@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Khoa Nguyen!
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Front-end framework, such as ReactJS, VueJS ...
+- 👀 I’m a front-end developer.
+- 🌱 I'm familiar with Angular, React and Vue frameworks.
 - 📫 How to reach me:
   - Gmail: khoaah1411@gmail.com
-  - Facebook: https://www.facebook.com/khoa.nguynn1411/
   - LinkedIn: https://www.linkedin.com/in/khoanguyn1411/
 
 <!---
