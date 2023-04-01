@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Khoa Nguyen!
-- 👀 I’m a front-end developer.
-- 🌱 I'm familiar with Angular, React and Vue frameworks.
-- 📫 How to reach me:
+👋 Hi, I’m Khoa Nguyen!
+👀 I’m a front-end developer.
+🌱 I'm familiar with Angular, React and Vue frameworks.
+📫 How to reach me:
   - Gmail: khoaah1411@gmail.com
   - LinkedIn: https://www.linkedin.com/in/khoanguyn1411/
 
