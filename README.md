@@ -7,6 +7,7 @@
 📫 How to reach me:
   - Gmail: khoaah1411@gmail.com
   - LinkedIn: https://www.linkedin.com/in/khoanguyn1411/
+  - My portfolio: https://khoanguyen-portfolio.vercel.app/
 
 <!---
 khoanguyn1411/khoanguyn1411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
