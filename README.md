@@ -3,7 +3,7 @@
 
 ## 🔧 Programming languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoanguyn1411&hide_progress=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoanguyn1411&hide_progress=false)
 
 ## 📫 How to reach me
 
