@@ -7,7 +7,7 @@
 
 ## 🔧 Programming languages
 
-![Khoa Nguyen](https://github-readme-stats.vercel.app/api/top-langs/?username=khoanguyn1411&layout=compact&langs_count=8)
+[![Khoa Nguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khoanguyn1411&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 
