@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Khoa Nguyen! I’m a front-end developer, familiar with Angular, React, and Vue frameworks.
+# 👋 Hi, I’m Khoa Nguyen! 
+### I’m a front-end developer, familiar with Angular, React, and Vue frameworks.
 
 ## 🏆 GitHub Stats
 
