@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Khoa Nguyen, a Web Developer
+# 👋 Hi, I’m Khoa Nguyen - Web Developer.
 
 ## 🔧 Programming languages
 
