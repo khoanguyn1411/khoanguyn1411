@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Khoa Nguyen - Web Developer.
 
+## 🔧 Programming languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoanguyn1411)
+
 ## Frameworks
 
 - Angular
 - React
 - Vue
-
-## 🔧 Programming languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoanguyn1411&hide_progress=false)
 
 ## 📫 How to reach me
 
